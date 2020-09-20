@@ -1,4 +1,4 @@
-[![Lizhihao's github stats](https://github-readme-stats.vercel.app/api?username=LiZhiHao97)](https://github.com/anuraghazra/github-readme-stats)
+[![Lizhihao's github stats](https://github-readme-stats.vercel.app/api?username=LiZhiHao97&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
