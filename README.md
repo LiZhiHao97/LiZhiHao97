@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Lizhihao's github stats](https://github-readme-stats.vercel.app/api?username=LiZhiHao97)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **LiZhiHao97/LiZhiHao97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
