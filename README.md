@@ -1,4 +1,4 @@
-### 😊 Hi there, I'm TothingWay
+### 😊 Hi there, I'm Lizhihao
 
 - 🌱 Graduate student
 - 🔭 I’m currently working on computer vision
