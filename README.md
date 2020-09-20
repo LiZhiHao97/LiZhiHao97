@@ -1,4 +1,4 @@
-### Hi there 🐏
+### 😊 Hi there, I'm TothingWay
 
 - 🌱 Graduate student
 - 🔭 I’m currently working on computer vision
